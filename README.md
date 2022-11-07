@@ -34,10 +34,10 @@ When the new interface is presented to the bidder, a timer should also start and
 When a bidder submits a bid that is lower than the current highest auction-wide bid, the bidder should be informed with red text on the webpage that their bid is too low (e.g. "Bid too low").  When a bidder submits a bid that is higher than the current highest bid price, this bid should become the new highest bid, and the bidder should be informed with green text that they have the current highest bid ("You are the current highest bidder!").
 When the timer reaches zero, the name of the auction winner and price should be displayed on the bidder's page, along with the text "Waiting for the next auction to begin...".  The bidder should be able to participate in any subsequent auctions.  
 </h4>
-<h4>
+<p>
 The core funionality of the app that it sends the automatic pretyped user message reply on the missed call between two time slites.
 And between time slots, it also reminds the remninder and enable the Do Not Disturb mode if it is allowed.
-</h4>
+<p>
 
 
 
